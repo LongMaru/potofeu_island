@@ -1,3 +1,3 @@
-## Pot'ofeu Island 2
+### Pot'ofeu Island 2
 Statut : {"placeholder":"serverstatus","values":{"ip":"fun.opblocks.com"}}
 Players : {"placeholder":"serverplayercount","values":{"ip":"fun.opblocks.com"}}
