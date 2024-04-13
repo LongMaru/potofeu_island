@@ -1,7 +1,7 @@
 ## %#77fc03%Ouverture du serveur%#%
 *22/04/2024*
 
-Bienvenu
+Bienvenue
 Règles : 
 - Faites preuve de courtoisie envers les autres joueurs au niveau des constructions et des chunks claimed
 - Si vous souhaitez inviter un de vos amis sur le serveur Minecraft, il devra d'abord rejoindre le serveur discord.
