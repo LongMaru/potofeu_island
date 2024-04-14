@@ -1,7 +1,11 @@
 ## %#77fc03%Ouverture du serveur%#%
 *14/04/2024*
+Ceci est un test d'écriture.
+Voilà
 
-Bienvenue
+## %#77fc03%Règle du serveur%#%
+*14/04/2024*
+
 Règles : 
 - Faites preuve de courtoisie envers les autres joueurs au niveau des constructions et des chunks claimed
 - Si vous souhaitez inviter un de vos amis sur le serveur Minecraft, il devra d'abord rejoindre le serveur discord.
